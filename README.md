@@ -3,8 +3,18 @@ User Management Dashboard A web app to manage users (view, add, edit, delete) us
 
 #OUTPUT
 
-![SC](https://github.com/user-attachments/assets/e0418daa-d7b5-4db7-9625-f65e2b7c65e0)
-![SC1](https://github.com/user-attachments/![SC2](https://github.com/user-attachments/assets/d080a969-7ea8-4dc9-95ef-3cd4fdd45b3c)
-assets/d017075d-9848-424f-8a0b-b0fbd40be98c)
-![SC3](https://github.com/user-attachments/assets/c25ea0c8-9d9d-4f4d-838f-70ec5823c016)![DBS](https://github.com/user-attachments/assets/ddeea026-9b12-4231-b556-4f3be38ec412)
+
+![SC](https://github.com/user-attachments/assets/6fbcd2e2-dcc2-4c3f-b088-f7448aafde97)
+
+
+![SC1](https://github.com/user-attachments/assets/738b42ba-2a2b-40a6-99b8-c0a5c165449d)   
+
+![SC2](https://github.com/user-attachments/assets/9426708b-432b-4162-b832-153620b5e2b3)
+
+![SC3](https://github.com/user-attachments/assets/f1e815b3-2595-45ee-90d7-490230f6b200)
+
+
+![DBS](https://github.com/user-attachments/assets/197f26c1-fa71-456c-9eb0-3c27625f631d)
+
+
 
